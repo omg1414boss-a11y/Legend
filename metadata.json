@@ -1,0 +1,5 @@
+{
+  "name": "AI Pro Video Creator",
+  "description": "An intelligent web tool that automatically assembles professional videos from voiceovers and images using Gemini 2.5 Flash for timing, captions, and transition logic.",
+  "requestFramePermissions": []
+}
